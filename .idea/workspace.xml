@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538c338e-f3a4-4b47-851c-4d417bf0d479" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/movies/index.html.haml" afterPath="$PROJECT_DIR$/app/views/movies/index.html.haml" />
     </list>
     <ignored path="hw2_rottenpotatoes.iws" />
@@ -82,7 +83,7 @@
       <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="45" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
+            <state line="14" column="72" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,7 +92,7 @@
       <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/movies/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="22" selection-start="178" selection-end="178" vertical-scroll-proportion="0.21293375">
+            <state line="19" column="30" selection-start="436" selection-end="436" vertical-scroll-proportion="0.44952682">
               <folding />
             </state>
           </provider>
@@ -131,8 +132,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="563" />
-    <option name="y" value="208" />
+    <option name="x" value="683" />
+    <option name="y" value="22" />
     <option name="width" value="1221" />
     <option name="height" value="1017" />
   </component>
@@ -563,7 +564,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="563" y="208" width="1221" height="1017" extended-state="0" />
+    <frame x="683" y="22" width="1221" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -709,13 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="45" selection-start="194" selection-end="194" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/movies/new.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="89" selection-start="327" selection-end="327" vertical-scroll-proportion="-8.75">
@@ -744,9 +738,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="72" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/movies/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="22" selection-start="178" selection-end="178" vertical-scroll-proportion="0.21293375">
+        <state line="19" column="30" selection-start="436" selection-end="436" vertical-scroll-proportion="0.44952682">
           <folding />
         </state>
       </provider>
