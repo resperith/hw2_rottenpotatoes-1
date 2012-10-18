@@ -91,7 +91,7 @@
       <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/movies/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="67" selection-start="476" selection-end="476" vertical-scroll-proportion="0.44952682">
+            <state line="6" column="80" selection-start="129" selection-end="129" vertical-scroll-proportion="0.14195584">
               <folding />
             </state>
           </provider>
@@ -131,8 +131,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="622" />
-    <option name="y" value="22" />
+    <option name="x" value="563" />
+    <option name="y" value="208" />
     <option name="width" value="1221" />
     <option name="height" value="1017" />
   </component>
@@ -563,7 +563,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="22" width="1221" height="1017" extended-state="0" />
+    <frame x="563" y="208" width="1221" height="1017" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -746,7 +746,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/movies/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="67" selection-start="476" selection-end="476" vertical-scroll-proportion="0.44952682">
+        <state line="6" column="80" selection-start="129" selection-end="129" vertical-scroll-proportion="0.14195584">
           <folding />
         </state>
       </provider>
