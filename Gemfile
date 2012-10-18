@@ -33,3 +33,7 @@ gem 'jquery-rails'
 
 # To use debugger and Haml for templates
 gem 'haml'
+# Use Ruby debugger from Saasbook
+group :development, :test do
+  gem 'ruby-debug19'
+end
