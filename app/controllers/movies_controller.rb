@@ -31,6 +31,10 @@ class MoviesController < ApplicationController
     redirect_to movie_path(@movie)
   end
 
+  def sort
+    @movie = Movie.sort (params[:movie])
+  end
+
   def destroy
     @movie = Movie.find(params[:id])
     @movie.destroy
