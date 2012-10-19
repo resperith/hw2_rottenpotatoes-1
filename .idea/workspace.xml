@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="538c338e-f3a4-4b47-851c-4d417bf0d479" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/movies/index.html.haml" afterPath="$PROJECT_DIR$/app/views/movies/index.html.haml" />
     </list>
     <ignored path="hw2_rottenpotatoes.iws" />
@@ -92,7 +91,7 @@
       <file leaf-file-name="index.html.haml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/movies/index.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="33" selection-start="577" selection-end="577" vertical-scroll-proportion="0.34961155">
+            <state line="20" column="53" selection-start="568" selection-end="568" vertical-scroll-proportion="0.33783785">
               <folding />
             </state>
           </provider>
@@ -735,7 +734,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/movies/index.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="33" selection-start="577" selection-end="577" vertical-scroll-proportion="0.34961155">
+        <state line="20" column="53" selection-start="568" selection-end="568" vertical-scroll-proportion="0.33783785">
           <folding />
         </state>
       </provider>
